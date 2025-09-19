@@ -1,0 +1,4 @@
+# Példa fájl
+
+Ez a fájl a feature/add-example-file ágban készült, hogy bemutassa a tipikus ág->commit->push->PR folyamatot.
+
